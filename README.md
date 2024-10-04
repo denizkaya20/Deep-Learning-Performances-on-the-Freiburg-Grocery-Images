@@ -1,9 +1,11 @@
 Freiburg Grocery Images Classification
 This project focuses on classifying images from the Freiburg Grocery Images dataset using different deep learning models. The models compared in this study include Convolutional Neural Networks (CNN), Multi-Layer Perceptrons (MLP), and Capsule Networks (CapsNet).
 
+
 Authors:
 Deniz Kaya (N21238222)
 Levent Burcalıoğlu (N21138655)
+
 Project Overview:
 The objective of this project is to apply deep learning models to classify grocery items and compare the performance of these models. The dataset consists of grocery images in 25 classes, such as milk, oil, spices, and sugar. Each class contains no fewer than 97 images, totaling 4,947 images. The dataset was expanded to 25,000 images using data augmentation techniques to improve model performance.
 
