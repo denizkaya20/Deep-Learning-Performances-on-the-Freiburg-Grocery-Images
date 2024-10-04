@@ -1,4 +1,5 @@
 Freiburg Grocery Images Classification
+
 This project focuses on classifying images from the Freiburg Grocery Images dataset using different deep learning models. The models compared in this study include Convolutional Neural Networks (CNN), Multi-Layer Perceptrons (MLP), and Capsule Networks (CapsNet).
 
 
@@ -13,6 +14,7 @@ The objective of this project is to apply deep learning models to classify groce
 Dataset:
 Source: The Freiburg Grocery Images dataset is available for download here.
 Image resolution: 256x256 pixels.
+
 Class distribution: The dataset is imbalanced, with some classes having as few as 100 images, while others have more than 300.
 Models Used:
 MLP (Multi-Layer Perceptron)
