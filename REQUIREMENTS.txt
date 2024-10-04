@@ -1,0 +1,17 @@
+tensorflow
+torch
+torchvision
+keras
+chainer
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+pickle
+h5py
+Pillow
+scikit-learn
+torchsummary
+google-colab
+tqdm
