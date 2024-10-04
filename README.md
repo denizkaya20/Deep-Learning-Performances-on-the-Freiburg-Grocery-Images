@@ -32,10 +32,12 @@ Performance was lower than CNNs, but better at preserving spatial relationships 
 Optimization & Regularization Techniques:
 Optimizers used: Adam, RMSprop
 Regularization techniques: Dropout, Early Stopping, Batch Normalization, Data Augmentation, L2 Regularization
+
 Results:
 MLP: Low accuracy, not well-suited for image classification tasks.
 CNN: Achieved the best results, with models performing between 60% and 70% in terms of accuracy.
 CapsNet: While CapsNet models are more complex and capable of handling image orientation, they did not outperform CNNs on this dataset.
+
 Conclusion:
 CNN models provided the highest classification accuracy for the Freiburg Grocery Images dataset. While CapsNet is promising for more complex tasks, it requires more computational resources and did not perform as well as CNNs for this dataset.
 
@@ -43,6 +45,7 @@ Requirements:
 Python
 TensorFlow or PyTorch
 Freiburg Grocery Images dataset
+
 How to Run:
 Download the dataset from the link provided.
 Install the required dependencies.
